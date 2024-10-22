@@ -1,22 +1,14 @@
-Welcome to Lumache's documentation!
+NHÀ CÁI SHBET - shbet.law
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`Shbet <https://shbet.law/>`_ là một nhà cái trực tuyến uy tín, được biết đến với nền tảng cá cược đa dạng và chất lượng. https://shbet.law/  nổi bật nhờ giao diện hiện đại, dễ sử dụng và cung cấp nhiều loại hình giải trí như cá cược thể thao, casino trực tuyến, bắn cá và nhiều trò chơi slot hấp dẫn.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ:
 
-.. note::
+Địa chỉ: 79 Đ. Bùi Minh Trực, Phường 5, Quận 8, Hồ Chí Minh, Việt Nam
 
-   This project is under active development.
+SĐT: 0906789898
 
-Contents
---------
+Wesbite: https://shbet.law/
 
-.. toctree::
-
-   usage
-   api
+Hashtag: shbet#nhacaishbet#linkshbet#trangchushbet#dangkyshbet#shbetcasino#shbetlaw
